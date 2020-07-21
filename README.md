@@ -1,7 +1,7 @@
 
 
 
-- 🔭 I’m currently working on Deep Learning on mmWave Applications
+- 🔭 I’m currently working on Deep Learning based mmWave Applications
 - 🌱 I’m currently learning CNNs and RNNs
 - 👯 I’m looking to collaborate on Deep Learning based 5G systems
 - 🤔 I’m looking for help with  BigDATA related problems
