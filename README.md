@@ -27,10 +27,14 @@
 
 
 
-[webdevplaylist]: 
+
 [website]: https://shamiulshifat.wordpress.com/
+
 [linkedin]: https://www.linkedin.com/in/shamiul-islam-shifat/
+
 [behance]: https://www.behance.net/shamiulshifat
+
 [facebook]: https://www.facebook.com/shamiulshifat/
+
 [kaggle]: https://www.facebook.com/shamiulshifat/
 
