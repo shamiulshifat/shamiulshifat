@@ -1,4 +1,6 @@
+### Hi there, I'm Shifat - [website] 👋 
 
+[![Website](https://img.shields.io/website?label=shamiulshifat.wordpress.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://shamiulshifat.wordpress.com/)
 
 
 - 🔭 I’m currently working on Deep Learning based mmWave Applications
@@ -21,6 +23,21 @@
 <br />
 
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shamiulshifat&show_icons=true&hide_border=true" />
+
+</details>
+
+
+
+
+
+
+
+
+[webdevplaylist]: 
 [website]: https://shamiulshifat.wordpress.com/
 [linkedin]: https://www.linkedin.com/in/shamiul-islam-shifat/
 [behance]: https://www.behance.net/shamiulshifat
