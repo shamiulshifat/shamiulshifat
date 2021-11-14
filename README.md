@@ -1,4 +1,4 @@
-### Hi there, I'm Shifat - [website] 👋 
+### Hi there, I'm Shifat 👋 
 
 [![Website](https://img.shields.io/website?label=shamiulshifat.wordpress.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://shamiulshifat.wordpress.com/)
 
