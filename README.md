@@ -27,7 +27,6 @@
 
 
 
-
 [website]: https://shamiulshifat.wordpress.com/
 
 [linkedin]: https://www.linkedin.com/in/shamiul-islam-shifat/
