@@ -3,11 +3,11 @@
 [![Website](https://img.shields.io/website?label=shamiulshifat.wordpress.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://shamiulshifat.wordpress.com/)
 
 
-- 🔭 I’m currently working on Deep Learning based mmWave Applications
-- 🌱 I’m currently learning CNNs and RNNs
+- 🔭 I’m currently working as MLOps
+- 🌱 I’m currently learning GANs
 - 👯 I’m looking to collaborate on Deep Learning based 5G systems
 - 🤔 I’m looking for help with  BigDATA related problems
-- 💬 Ask me about DataScience
+- 💬 Ask me about A.I
 - 📫 How to reach me: shifat.ruet@gmail.com
 - ⚡ Fun fact: Love Virtual Hangouts
 -->
