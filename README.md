@@ -27,6 +27,7 @@
 ]
 
 
+
 [website]: https://shamiulshifat.wordpress.com/
 
 [linkedin]: https://www.linkedin.com/in/shamiul-islam-shifat/
@@ -36,4 +37,6 @@
 [facebook]: https://www.facebook.com/shamiulshifat/
 
 [kaggle]: https://www.facebook.com/shamiulshifat/
+
+![Metrics](/github-metrics.svg)
 
