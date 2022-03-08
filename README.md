@@ -38,5 +38,5 @@
 
 [kaggle]: https://www.facebook.com/shamiulshifat/
 
-![Metrics](/github-metrics.svg)
+
 
