@@ -23,7 +23,7 @@
 <br />
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-![Metrics](https://metrics.lecoq.io/shamiulshifat?template=classic&introduction=1&languages=1&repositories=1&pagespeed=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.aliases=python%2C%20matlab&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&pagespeed.url=https%3A%2F%2Fshamiulshifat.wordpress.com%2F&pagespeed.detailed=false&pagespeed.screenshot=true&config.timezone=Asia%2FDhaka)]
+![Metrics](https://metrics.lecoq.io/shamiulshifat?template=classic&introduction=1&languages=1&repositories=1&pagespeed=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.aliases=python%2C%20matlab&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&pagespeed.url=https%3A%2F%2Fshamiulshifat.wordpress.com%2F&pagespeed.detailed=false&pagespeed.screenshot=true&config.timezone=Asia%2FDhaka)
 
 
 
