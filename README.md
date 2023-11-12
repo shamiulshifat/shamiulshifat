@@ -2,6 +2,10 @@
 
 [![Website](https://img.shields.io/website?label=shamiulshifat.wordpress.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://shamiulshifat.wordpress.com/)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shamiulshifat&label=Profile%20views&color=0e75b6&style=flat" alt="shamiulshifat" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamiulshifat" alt="shamiulshifat" /></a> </p>
+
 
 - 🔭 I’m currently working as MLOps Engineer
 - 🌱 I’m currently learning Cloud deployment of MLOps.
