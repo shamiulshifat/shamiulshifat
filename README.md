@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as MLOps Engineer
 - 🌱 I’m currently learning Cloud deployment of MLOps.
-- 👯 I’m looking to collaborate on GANs, MLOPs, DevSecOps
+- 👯 I’m looking to collaborate on GANs, LLMs, MLOPs, DevSecOps
 - 🤔 Love to solve BigDATA related problems with business insights
 - 💬 Ask me about A.I, Clouds, 5G, deployments or movies!
 - 📫 How to reach me: shifat.ruet@gmail.com
