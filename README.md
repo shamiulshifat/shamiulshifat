@@ -1,4 +1,4 @@
-![Hi there, I'm Shifat 👋](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
+![Hi there, I'm Shifat 👋](https://as2.ftcdn.net/v2/jpg/05/67/40/31/1000_F_567403147_WjV5fqGRjjPUkBOnXaaREKgVjZMC12M7.jpg)
 
 ![Profile views](https://komarev.com/ghpvc/?username=shamiulshifat&label=Profile%20views&color=0e75b6&style=flat)
 
